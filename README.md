@@ -1,4 +1,4 @@
-# Olá, eu sou Maria Joice 👋
+# Olá, eu sou Maria Joice. 👋
 
 Sou estudante de **Tecnologia da Informação**, atualmente desenvolvendo meus conhecimentos em programação e desenvolvimento de software.
 
