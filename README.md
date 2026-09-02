@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Maria Joice 👋
 
-<!--
-**mariajoice34/mariajoice34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Tecnologia da Informação**, atualmente desenvolvendo meus conhecimentos em programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+Tenho interesse em transformar o aprendizado acadêmico e os estudos pessoais em projetos práticos, buscando constantemente aprimorar minhas habilidades e construir uma base sólida na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+Atualmente estudo e desenvolvo projetos utilizando:
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* Git e GitHub
+
+## Projetos
+
+Alguns dos projetos que fazem parte da minha jornada de aprendizado:
+
+### Sistema de Cadastro de Doadores
+
+Sistema desenvolvido para cadastro e gerenciamento de informações de doadores.
+
+### Cardápio de Pedidos
+
+Aplicação desenvolvida para simular o gerenciamento de pedidos de uma lanchonete.
+
+### Site de Açaí
+
+Projeto web desenvolvido para praticar conceitos de desenvolvimento front-end.
+
+### Plataforma de Fotografia
+
+Projeto de uma plataforma web voltada para cadastro, autenticação e disponibilização de fotografias.
+
+## Atualmente
+
+Estou aprimorando meus conhecimentos em **desenvolvimento de software**, criando novos projetos e evoluindo os projetos existentes à medida que avanço nos estudos.
+
+---
+
+Campina Grande - PB, Brasil
