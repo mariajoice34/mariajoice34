@@ -1,6 +1,6 @@
 # Olá, eu sou Maria Joice. 👋
 
-Sou estudante de **Tecnologia da Informação**, atualmente desenvolvendo meus conhecimentos em programação e desenvolvimento de software.
+Sou estudante de **Analise e desenvolvimento de sistemas**, atualmente desenvolvendo meus conhecimentos em programação e desenvolvimento de software.
 
 Tenho interesse em transformar o aprendizado acadêmico e os estudos pessoais em projetos práticos, buscando constantemente aprimorar minhas habilidades e construir uma base sólida na área de tecnologia.
 
